@@ -1,0 +1,36 @@
+[
+   
+  {
+        "avatar": "advisor2.png",
+        "name": "Rooster Booster",
+        "position": "Marketing Advisor",
+        "social": {
+            "twitter": "https://x.com/RoosterBroost3r",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+     {
+        "avatar": "advisor5.png",
+        "name": "Alejandro",
+        "position": "Marketing Advisor",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+      {
+        "avatar": "advisor6.png",
+        "name": "UpOnlyGreg",
+        "position": "KOL Advisor",
+        "social": {
+            "twitter": "https://x.com/CryptoBullGreg",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    }
+]

@@ -1,0 +1,50 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://www.neotechai.com/</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/about</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/MAAS</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/technology</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/tokenomics</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/team</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.neotechai.com/blog</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<!--  BLOG  -->
+<url>
+<loc>https://www.neotechai.com/blog/redefining-education-neotechs-role-in-creating-immersive-classrooms</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<!--  BLOG  -->
+<url>
+<loc>https://www.neotechai.com/contact</loc>
+<lastmod>2024-10-16T21:49:20+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+</urlset>

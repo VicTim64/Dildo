@@ -1,0 +1,552 @@
+[
+        {
+        "avatar": "team27.png",
+        "name": "Sebastian Burduja",
+        "position": "Ministry of Energy",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/tianu",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+           {
+        "avatar": "barna.png",
+        "name": "Tanczos Barna",
+        "position": "Ministry of Finance",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/TanczosBarna",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+          {
+        "avatar": "team26.png",
+        "name": "Peter Ferenc",
+        "position": "President of the Mureș County Council",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/peter.ferenc",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+            {
+        "avatar": "antal.png",
+        "name": "Barabasi Antal Szabolcs ",
+        "position": "Prefect of Mureș",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/profile.php?id=100083011458405",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+        {
+        "avatar": "team28.png",
+        "name": "Leonard Azamfirei",
+        "position": "Rector at UMFST",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/LAzamfirei/",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+      {
+        "avatar": "team24.png",
+        "name": "Marius Posa",
+        "position": "Undersecretary of State, Ministry of Economy, Digitalization, Tourism and Entrepreneurship",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/posa-m-924b17158/"
+        }
+    },
+           {
+        "avatar": "team32.png",
+        "name": "Borbely Laszlo",
+        "position": "State Counselor – Coordinator of the Department for Sustainable Development",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/borbely.laszlo1954/",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+                   {
+        "avatar": "levente.png",
+        "name": "Kovacs Mihaly Levente",
+        "position": "Deputy Mayor of the Municipality of Targu Mures",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/kovacs.m.levente",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },      
+                        {
+        "avatar": "ciprian.png",
+        "name": "Ciprian Alin Belean",
+        "position": "Mayor of Raciu, Mures County",
+        "social": {
+            "twitter": "",
+            "facebook": " https://www.facebook.com/ciprianalinbelean/?locale=ro_RO",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },   
+
+
+    {
+        "avatar": "team1.png",
+        "name": "Doru Borsan",
+        "position": "CEO Neotech",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/doru-borsan-4a0a7368/"
+        }
+    },
+   {
+        "avatar": "team21.png",
+        "name": "Ilie Puscas",
+        "position": "Country Manager Binance",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/puski/"
+        }
+    },
+   
+  {
+        "avatar": "sergiu.png",
+        "name": "Sergiu-Traian Vasilescu",
+        "position": "Managing Partner at VDLawGroup",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/sergiu-traian-vasilescu/"
+        }
+    },
+
+   
+       {
+        "avatar": "paraschivescu.png",
+        "name": "Adrian Paraschivescu",
+        "position": "Co-founder Pigli",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/adrian-paraschivescu-1479b2219/"
+        }
+    },
+
+  
+     
+    
+    {
+        "avatar": "adrian.png",
+        "name": "Gl.bg. Adrian Singheorghe",
+        "position": "Head of the Research, Design, and Development Directorate at STS",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/adrian-singheorghe-68a3985/?originalSubdomain=ro"
+        }
+    },
+   
+
+    
+  
+  {
+        "avatar": "team14.png",
+        "name": "Nick Rizzoli",
+        "position": "Web3 Consultant",
+        "social": {
+            "twitter": "https://x.com/Rizzy_Bit",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+   {
+        "avatar": "team23.png",
+        "name": "Steff Norbert",
+        "position": "University Lecturer",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/norbert-steff-251a57208/"
+        }
+    },
+        {
+        "avatar": "team7.png",
+        "name": "Vlad Olareanu",
+        "position": "Web3 Advisor",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/vlad-olareanu/"
+        }
+        },
+    
+    {
+        "avatar": "team5.png",
+        "name": "Carmelo Milian",
+        "position": "CEO Metachain",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/cmilian/"
+        }
+    },
+      {
+        "avatar": "team16.png",
+        "name": "Bogdan Maioreanu",
+        "position": "Market Analyst Etoro",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/bogdan-maioreanu-6a38333/"
+        }
+      },
+       {
+        "avatar": "team30.png",
+        "name": "Conf.dr.ing. Domokos Jozsef",
+        "position": "Dean of the Faculty of Technical and Human Sciences, Sapientia University",
+        "social": {
+            "twitter": "",
+            "facebook": "https://www.facebook.com/domokos.jozsef.165",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+      {
+        "avatar": "mucenica.png",
+        "name": "Mihai Mucenica",
+        "position": "Business Development Officer at TOKERO",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/mihai-mucenica-2033b5263/"
+        }
+      },
+      {
+        "avatar": "tamas.png",
+        "name": "Daniel Tamas",
+        "position": "CEO of WAM",
+        "social": {
+            "twitter": "https://x.com/dani_wam",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://linkedin.com/in/danieltamas"
+        }
+      },
+     {
+        "avatar": "grancea.png",
+        "name": "Andrei Grancea",
+        "position": "ABCrypto Romania",
+        "social": {
+            "twitter": "https://x.com/andrei_abcrypto?s=21&t=vWd0ymGk3B5dw3biGJpazw ",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+            {
+        "avatar": "hobincu.png",
+        "name": "Alexandru Hobincu",
+        "position": "Trader & Trainer",
+        "social": {
+            "twitter": "https://x.com/hobincus",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+       {
+        "avatar": "gafitanu.png",
+        "name": "Dorin Gafitanu (Dacul.ETH)",
+        "position": "Founder HEAL²",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/gafitanu-dorin"
+        }
+      },
+                                            {
+        "avatar": "cristianandrei.png",
+        "name": "Cristian Andrei",
+        "position": "Founder & CEO IXFI",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/cristianixfi/"
+        }
+      },
+                                              {
+        "avatar": "cocora.png",
+        "name": "Flavius Cocora",
+        "position": "Country Manager BingX",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/flama7co/"
+        }
+      },
+                                                  {
+        "avatar": "flaviusjack.png",
+        "name": "Flavius Jakubowicz",
+        "position": "Founder JASILL",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jakubowiczflavius/"
+        }
+      },
+                                                        {
+        "avatar": "crina.png",
+        "name": "Crina-Alexandra Tache",
+        "position": "General Development Manager at VD Law Group",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/crina-tache/"
+        }
+      },
+                                                           {
+        "avatar": "nita.png",
+        "name": "Sorin Cristian Nita",
+        "position": "Associate Professor at The Bucharest University of Economic Studies",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/sorin-cristian-nita-161716a9/"
+        }
+      },
+      {
+        "avatar": "colombo.png",
+        "name": "Gianluigi Colombo",
+        "position": "Exec. VRC, VRN",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+          {
+        "avatar": "rocco.png",
+        "name": "Giuseppe Rocco",
+        "position": "Exec. VRC, MM Holding",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+                {
+        "avatar": "valerio.png",
+        "name": " Valerio Di Bona ",
+        "position": "Exec. VRC Valerio Di Bona",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+             {
+        "avatar": "spread.png",
+        "name": "MisterSpread",
+        "position": "Founder ParadigmShift ",
+        "social": {
+            "twitter": "https://x.com/MisterSpread",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+      
+            {
+        "avatar": "mrcrypto.png",
+        "name": "Mr.Crypto",
+        "position": "KOL",
+        "social": {
+            "twitter": "https://x.com/Mr_Crypto5",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+            {
+        "avatar": "paul.png",
+        "name": "Paul Maior ",
+        "position": "Chairman & CEO at Invest Club",
+        "social": {
+            "twitter": "https://x.com/PaulMaior",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+ 
+ 
+   
+        {
+        "avatar": "team6.png",
+        "name": "Tudor Coman ",
+        "position": "Venture Capital & Web3 Advisory",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/tudor-coman-7a3939259/"
+        }
+      },
+            {
+        "avatar": "ionut.png",
+        "name": "Ionut Vilceanu ",
+        "position": "Web2 → Web3 Transition Expert",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/ionut-vilceanu"
+        }
+      },
+     
+           {
+        "avatar": "meza.png",
+        "name": " Prof.eng. Serban-Nicolae MEZA ",
+        "position": "University Professor at The Technical University of Cluj-Napoca",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/serban-nicolae-meza-95970b2 "
+        }
+      },
+                          {
+        "avatar": "petrea.png",
+        "name": " Filip Petrea ",
+        "position": "MetaWealth Consultant & Share Holder",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/filippetrea/"
+        }
+      },
+        
+    
+                        {
+        "avatar": "stoean.png",
+        "name": " Stoean Stefan Cosmin ",
+        "position": "CEO PIGLI",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://x.com/stefanstoean "
+        }
+      },
+                {
+        "avatar": "buta.png",
+        "name": " Ana-Maria Buta ",
+        "position": "Senior Associate VD Law Group",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/anamaria-buta "
+        }
+      },
+                           {
+        "avatar": "stoica.png",
+        "name": " Vlad Stoica",
+        "position": "Angel Investor & KOL",
+        "social": {
+            "twitter": "https://x.com/VladStoica23",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+      },
+                             {
+        "avatar": "marculescu.png",
+        "name": "Daiana Marculescu",
+        "position": "Founder, CometsOfWeb3",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/daiana-marculescu/"
+        }
+      },
+                                {
+        "avatar": "cojoc.png",
+        "name": "Radu Cojoc",
+        "position": "Senior Trader & Investment Advisor at SSIF Goldring",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/radu-cojoc-8a8194172/"
+        }
+      },
+                                      {
+        "avatar": "virgil.png",
+        "name": "Zahan Virgil",
+        "position": "CEO at SSIF Goldring",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/virgil-zahan-65093125/"
+        }
+        },
+                                                                             {
+        "avatar": "dumitrel.png",
+        "name": "Dumitrel Iulian-Andrei",
+        "position": "Jurnalist, Aleph Business & Investitor",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/iulian-andrei-dumitrel-614315353/"
+        }
+                                      },
+                                                                             {
+        "avatar": "rotaru.png",
+        "name": "Bogdan Rotaru",
+        "position": "Partner, VD Law Group",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "linkedin": "http://linkedin.com/in/bogdanmrotaru"
+        }
+                                      }
+ 
+]

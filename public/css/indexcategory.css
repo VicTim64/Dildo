@@ -1,0 +1,27 @@
+.category-container {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center; /* Center the buttons */
+}
+
+.category-box {
+  max-width: 100%;
+  width: 90%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@media (max-width: 768px) {
+  .category-container {
+    justify-content: center; /* Center the buttons on smaller screens */
+  }
+
+  .category-box {
+    width: 100%;
+    padding: 15px;
+    font-size: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

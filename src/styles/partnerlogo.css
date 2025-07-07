@@ -1,0 +1,10 @@
+.neoh_fn_investor img {
+  width: 150px;  /* Adjust this width */
+  height: 100px; /* Adjust this height */
+  object-fit: contain; /* This keeps the aspect ratio intact */
+  padding: 10px; /* Add padding if needed */
+  border: 1px solid #ddd; /* Optional: add border to ensure all logos appear uniform */
+  background-color: #fff; /* Ensure a background for transparency in logos */
+  display: block;
+  margin: 0 auto;
+}
